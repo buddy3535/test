@@ -1,0 +1,56 @@
+{
+    "success": true,
+    "message": "Data successfully obtained.",
+    "locale": {
+        "message": {
+            "np": "???? ??????????? ??????? ????",
+            "en": "Data successfully obtained."
+        }
+    },
+    "unicodeMessage": "???? ??????????? ??????? ????",
+    "code": "0",
+    "data": {
+        "items": [
+            {
+                "label": "Parents",
+                "value": "Parents"
+            },
+            {
+                "label": "Spouse",
+                "value": "Spouse"
+            },
+            {
+                "label": "Children",
+                "value": "Children"
+            },
+            {
+                "label": "Brother/Sister",
+                "value": "Brother/Sister"
+            },
+            {
+                "label": "Uncle/Aunt",
+                "value": "Uncle/Aunt"
+            },
+            {
+                "label": "Cousin",
+                "value": "Cousin"
+            },
+            {
+                "label": "Business Partner",
+                "value": "Business Partner"
+            },
+            {
+                "label": "Employer",
+                "value": "Employer"
+            },
+            {
+                "label": "Employee",
+                "value": "Employee"
+            },
+            {
+                "label": "Friends",
+                "value": "Friends"
+            }
+        ]
+    }
+}
