@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "message": "Occupation list fetched successfully",
+    "data": {
+        "items": [
+            {
+                "id": "OCC001",
+                "value": "1",
+                "label": "Engineer"
+            },
+            {
+                "id": "OCC002",
+                "value": "2",
+                "label": "Doctor"
+            },
+            {
+                "id": "OCC003",
+                "value": "3",
+                "label": "Teacher"
+            },
+            {
+                "id": "OCC004",
+                "value": "4",
+                "label": "Farmer"
+            }
+        ],
+        "purpose": []
+    }
+}
