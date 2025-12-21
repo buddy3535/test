@@ -1,29 +1,44 @@
 {
     "success": true,
-    "message": "Occupation list fetched successfully",
+    "message": "Data successfully obtained.",
+    "locale": {
+        "message": {
+            "np": "???? ??????????? ??????? ????",
+            "en": "Data successfully obtained."
+        }
+    },
+    "unicodeMessage": "???? ??????????? ??????? ????",
+    "code": "0",
     "data": {
         "items": [
             {
-                "id": "OCC001",
-                "value": "1",
-                "label": "Engineer"
+                "label": "Student",
+                "value": "Student"
             },
             {
-                "id": "OCC002",
-                "value": "2",
-                "label": "Doctor"
+                "label": "Housewife",
+                "value": "Housewife"
             },
             {
-                "id": "OCC003",
-                "value": "3",
-                "label": "Teacher"
+                "label": "Salaried",
+                "value": "Salaried"
             },
             {
-                "id": "OCC004",
-                "value": "4",
-                "label": "Farmer"
+                "label": "Unemployed",
+                "value": "Unemployed"
+            },
+            {
+                "label": "Self Employed",
+                "value": "Self Employed"
+            },
+            {
+                "label": "GOVERNMENT EMPLOYEE",
+                "value": "GOVERNMENT EMPLOYEE"
+            },
+            {
+                "label": "PRIVATE COMPANY EMPLOYEE",
+                "value": "PRIVATE COMPANY EMPLOYEE"
             }
-        ],
-        "purpose": []
+        ]
     }
 }
